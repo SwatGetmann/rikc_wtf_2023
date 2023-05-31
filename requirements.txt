@@ -2,3 +2,5 @@ pandas
 numpy
 tabula-py
 pypdf2
+seaborn
+matplotlib
