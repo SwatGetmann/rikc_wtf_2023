@@ -1,4 +1,4 @@
 pandas
 numpy
-tabula
+tabula-py
 pypdf2
