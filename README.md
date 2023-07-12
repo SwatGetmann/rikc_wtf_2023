@@ -15,8 +15,9 @@ And run.
 The data is taken from [РИКЗ - Республиканский Институт Контроля Знаний](https://rikc.by/). 
 
 Here is the exact file [PDF URL](https://result.rikc.by/ru/testing/2022/01-02.pdf).
-UPD. The Link no longer works (404). Hence the downloaded PDF is the only source for the data to base the analysis on. \
-In my opinon, such moves by government only add ambiguity and cover up the problem with how points distributed during the exam.
+UPD. The Link no longer works (404). They moved it [here](https://result.rikc.by/ru/testing/2023/ce/01-02.pdf).
+
+Actually, all PDFs can be found on this page: https://result.rikc.by/ru/testing/ResultCE.aspx.
 
 The script extracts the data from a single file, that was structured as a table with 'Initial Score' and 'Test Score' columns.
 
